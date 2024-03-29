@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\bksw\\pycharmProjects\\LeNet5\\logs\\model.ckpt-9801"
+all_model_checkpoint_paths: "C:\\Users\\bksw\\pycharmProjects\\LeNet5\\logs\\model.ckpt-9801"
